@@ -1,0 +1,29 @@
+h1 {
+font-family: Verdana;
+font-weight: normal;
+font-size: 50px;
+color: white;
+text-align: center;
+}
+h5, a {
+color: aquamarine;
+font-size: 16px;
+}
+.text {
+font-family: Verdana;
+font-weight: 300;
+font-size: 42px;
+}
+h3 {
+font-family: Verdana;
+font-size: 21px;
+color: gray;
+}
+html {
+background-color: black;
+text-align: center;
+}
+bottom {
+text-align: right;
+color: gray;
+}
